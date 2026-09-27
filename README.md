@@ -9,10 +9,9 @@ Viewer links only work while this repository is public.
 
 | Timeline | View | Last changed |
 | --- | --- | --- |
-| India History Timeline (1498 to Present) (Copy) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/india-history-timeline-1498-to-present-copy.timeline) | 2026-09-27 |
 | India History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/india-history-timeline-1498-to-present.timeline) | 2026-09-27 |
 | Modern India Timeline (1707 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/modern-india-timeline-1707-to-present.timeline) | 2026-09-27 |
-| NEW UPDATED India History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-india-history-timeline-1498-to-present.timeline) |  |
+| NEW UPDATED India History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-india-history-timeline-1498-to-present.timeline) | 2026-09-27 |
 | NEW UPDATED Medieval (c. 600 BCE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-medieval-c-600-bce-to-1707-ce.timeline) | 2026-09-27 |
 | UPSC CSE - Ancient India Timeline (Prehistory to c. 600 BCE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-ancient-india-timeline-prehistory-to-c.-600-bce.timeline) | 2026-09-26 |
 | UPSC CSE - India History Timeline (c. 600 BCE to 1707 CE) (Copy) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-india-history-timeline-c.-600-bce-to-1707-ce-copy.timeline) | 2026-09-27 |
