@@ -11,10 +11,7 @@ Viewer links only work while this repository is public.
 | --- | --- | --- |
 | Final- Ancient India Timeline (Prehistory to c. 600 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/final-ancient-india-timeline-prehistory-to-c-600-ce.timeline) | 2026-10-03 |
 | Final Medieval (c. 600 CE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/final-medieval-c-600-ce-to-1707-ce.timeline) | 2026-10-03 |
+| Final Modern History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/final-modern-history-timeline-1498-to-present.timeline) |  |
 | India History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/india-history-timeline-1498-to-present.timeline) | 2026-09-27 |
 | Modern India Timeline (1707 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/modern-india-timeline-1707-to-present.timeline) | 2026-09-27 |
-| NEW UPDATED Modern History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-modern-history-timeline-1498-to-present.timeline) | 2026-09-29 |
-| UPSC CSE - Ancient India Timeline (Prehistory to c. 600 BCE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-ancient-india-timeline-prehistory-to-c.-600-bce.timeline) | 2026-09-26 |
-| UPSC CSE - India History Timeline (c. 600 BCE to 1707 CE) (Copy) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-india-history-timeline-c.-600-bce-to-1707-ce-copy.timeline) | 2026-09-27 |
 | UPSC CSE - Indian History Timeline (Ancient to Modern) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-indian-history-timeline-ancient-to-modern.timeline) | 2026-09-27 |
-| UPSC CSE - Medieval India Timeline (c. 600 BCE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/upsc-cse-medieval-india-timeline-c.-600-bce-to-1707-ce.timeline) | 2026-09-27 |
