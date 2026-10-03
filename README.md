@@ -9,8 +9,8 @@ Viewer links only work while this repository is public.
 
 | Timeline | View | Last changed |
 | --- | --- | --- |
+| Final Medieval (c. 600 CE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/final-medieval-c-600-ce-to-1707-ce.timeline) |  |
 | India History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/india-history-timeline-1498-to-present.timeline) | 2026-09-27 |
-| Medieval (c. 600 CE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/medieval-c.-600-ce-to-1707-ce.timeline) |  |
 | Modern India Timeline (1707 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/modern-india-timeline-1707-to-present.timeline) | 2026-09-27 |
 | NEW UPDATED Medieval (c. 600 BCE to 1707 CE) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-medieval-c-600-bce-to-1707-ce.timeline) | 2026-09-27 |
 | NEW UPDATED Modern History Timeline (1498 to Present) | [Open](https://www.timelines.studio/viewer/gh/mithilesh-patel/timelines-sync/main/new-updated-modern-history-timeline-1498-to-present.timeline) | 2026-09-29 |
